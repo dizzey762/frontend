@@ -1,24 +1,30 @@
 html {
-    background-color: rgb(255, 255, 224)
+  background-color: rgb(255, 255, 224);
 }
 
 h3 {
-    text-align: center;
-    color: #cc0000;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
-
+  text-align: center;
+  color: #cc0000;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
 p {
-    font-size: 13.33px;
-    font-family: 'Times New Roman', Times, serif;
+  font-size: 13.33px;
+  font-family: "Tinos", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 hr {
-    background-color: black;
-    height: 1px;
-    border-radius: 1px;
-    /* display: block; */
-    width: 1920px;
+  background-color: black;
+  height: 1px;
+  border-radius: 1px;
+  width: 1920px;
+}
+
+.headerMain {
+  font-family: "Sour Gummy", serif;
+  font-size: 48px;
 }
