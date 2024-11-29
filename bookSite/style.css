@@ -1,0 +1,24 @@
+html {
+    background-color: rgb(255, 255, 224)
+}
+
+h3 {
+    text-align: center;
+    color: #cc0000;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+
+}
+
+p {
+    font-size: 13.33px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr {
+    background-color: black;
+    height: 1px;
+    border-radius: 1px;
+    /* display: block; */
+    width: 1920px;
+}
